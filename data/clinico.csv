@@ -1,0 +1,3 @@
+id,petName,ownerName,age,weight,species,breed,sex,neutered,imageUrl,about,complain,symptoms,syndrome,diagnosis,treatment,xray,ct,mri,fluoroscopy,ultrasound,echography,cbc,biochemistry,urinalysis,cytology,otherLab,pdf,word,excel,externalFiles
+CLN-140342,Abdelsalam,,2.6,2.5,Feline,,Male,Yes,"https://www.thetech.org/media/5dacj20a/white-cat-blue-eyes_banner.png?rxy=0.7208067940552016,0.3955750063541629&width=900&height=900&rnd=133249536038830000","A nervous and deaf cat, which attack the owner with all his power, he has seizures, the observed that he has tumor in brain (all chemistry exams are fine)","seizures 
+nervousness",,Waardenburg,,Euthanasia,,,,,,,,,,,,,,,
